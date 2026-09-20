@@ -1,3 +1,13 @@
+![Uploading boltzmann_neon.gif…]()
+
+
+
+# Langevin Dynamics & Maxwell-Boltzmann Distribution
+
+A 2D neon Langevin simulation of charged particles in an electric field with thermal fluctuations and dynamic Maxwell-Boltzmann velocity fitting.
+
+
+
 cat << 'EOF' > README.md
 # Langevin Dynamics & Maxwell-Boltzmann (Neon Red)
 
