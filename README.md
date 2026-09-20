@@ -1,4 +1,4 @@
-![Uploading boltzmann_neon.gif…]()
+
 
 
 
@@ -13,7 +13,6 @@ cat << 'EOF' > README.md
 
 Real-time 2D Langevin dynamics simulation written in Python. Solves Brownian motion with thermal noise, drag, and an electric field, demonstrating an emergent Maxwell-Boltzmann velocity distribution.
 
-![Preview](docs/preview.png)
 
 ## Run Directly from Terminal
 
