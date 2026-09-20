@@ -1,4 +1,9 @@
+## Langevin Dynamics - Neon E-Field
 
+![Boltzmann Neon](boltzmann_neon.gif)
+
+160 parçacık, Langevin dinamiği ile E-alan altında sürüklenme ve sağda teorik Maxwell-Boltzmann dağılımının canlı karşılaştırması.
+`python boltzmann_neon.py` ile çalışır.
 
 
 
