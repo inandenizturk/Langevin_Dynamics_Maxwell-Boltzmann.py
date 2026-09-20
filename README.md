@@ -1,9 +1,18 @@
-## Langevin Dynamics - Neon E-Field
+## Langevin Dynamics [Neon E-Field] - Maxwell-Boltzmann Validation
 
 ![Boltzmann Neon](boltzmann_neon.gif)
 
-160 parçacık, Langevin dinamiği ile E-alan altında sürüklenme ve sağda teorik Maxwell-Boltzmann dağılımının canlı karşılaştırması.
-`python boltzmann_neon.py` ile çalışır.
+Stochastic simulation of 160 charged particles under an external electric field using Langevin dynamics.
+
+**Left:** 2D particle chamber with thermal fluctuations (ξ), drag (γ), gravity (g) and E-field drift.  
+**Right:** Real-time speed histogram vs. theoretical Maxwell-Boltzmann distribution `f(v) ~ v * exp(-v² / 2kT)`.
+
+Built with Python / NumPy / Matplotlib. Euler-Maruyama integration.
+
+Run:
+```bash
+pip install numpy matplotlib
+python Langevin_Dynamics_Maxwell-Boltzmann.py
 
 
 
